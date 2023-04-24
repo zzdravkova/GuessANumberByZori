@@ -28,6 +28,8 @@ public class GuessANumber {
                 playerNumber = Integer.parseInt(playerInput);
                 if(playerNumber == computerNumber){
                     System.out.println("You guessed it!");
+                    System.out.println("Play again");
+                    return;
                 } else if(playerNumber > computerNumber){
                     System.out.println("Too High");
                 } else {
@@ -35,6 +37,8 @@ public class GuessANumber {
                 }
             } else {
                 System.out.println("Invalid input.");
+                System.out.println("Play again");
+                return;
             }
 
 
