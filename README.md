@@ -3,7 +3,7 @@
 
 ![](https://content.instructables.com/FGE/F6F0/K1NVATVK/FGEF6F0K1NVATVK.jpg?auto=webp)
 
-"Guess A Number" is a simple guessing game where the player is supposed to guess the number that the oponent (the computer) has come up with. The program randomly selects a number between 1 and 100. It will then ask the player to enter their guess. Each time the player enters a number, the computer will tell them whether it is lower or higher that the expected number.
+"Guess a number" is a simple guessing game where the player is supposed to guess the number that the oponent (the computer) has come up with. The program randomly selects a number between 1 and 100. It will then ask the player to enter their guess. Each time the player enters a number, the computer will tell them whether it is lower or higher that the expected number.
 
 The player wins the game when their number matches the computer's number.
 
